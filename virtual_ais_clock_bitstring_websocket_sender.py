@@ -39,11 +39,11 @@ WS_URL = "ws://127.0.0.1:52002"
 # Clock setting
 # =========================================================
 
-CENTER_LAT = 0.0
-CENTER_LON = 0.0
+CENTER_LAT = 0.1
+CENTER_LON = 0.1
 
 USE_MELBOURNE_TIME = True
-MELBOURNE_TZ = timezone(timedelta(hours=11))  # simple fixed AEDT-style offset
+MELBOURNE_TZ = timezone(timedelta(hours=10))  # simple fixed AEDT-style offset
 
 # 5秒待つのではなく、全船を順番に200ms間隔で出し続ける
 # 24船なら、1周は 24 x 0.2 = 約4.8秒。
