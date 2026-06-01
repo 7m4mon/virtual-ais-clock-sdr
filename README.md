@@ -8,6 +8,9 @@ AISの仮想ターゲットを使って、プロッター上にアナログ時�
 
 - https://github.com/Mictronics/ais-simulator
 
+<img width="1920" height="1032" alt="Image" src="https://github.com/user-attachments/assets/cdcd068f-88d6-409d-a36e-c984c9a67f2f" />
+
+
 ## これは何？
 
 AISでは、船舶の位置情報などが定期的に送信されます。
